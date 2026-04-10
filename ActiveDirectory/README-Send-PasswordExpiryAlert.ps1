@@ -1,4 +1,6 @@
-markdown:
+#### 2. README pour `Send-PasswordExpiryAlert.ps1`
+
+```markdown
 # 📧 Send-PasswordExpiryAlert
 
 ## 📝 Description
@@ -9,5 +11,5 @@ Un script de maintenance proactive qui interroge l'Active Directory pour identif
 - Accès à un serveur relais SMTP (ex: Exchange, Office 365, ou relais interne).
 
 ## 🚀 Utilisation
-powershell:
+```powershell
 .\Send-PasswordExpiryAlert.ps1 -DaysBeforeExpiry 14 -SmtpServer "smtp.mondomaine.com"
