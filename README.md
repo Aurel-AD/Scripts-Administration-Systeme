@@ -3,7 +3,7 @@
 Bienvenue sur mon dépôt de scripts d'administration système et réseau. 
 Je suis **Aurélien Pont**, étudiant en **BTS SIO option SISR** et alternant en tant qu'Administrateur Technique chez Novares.
 
-Ce dépôt regroupe plusieurs scripts PowerShell que j'ai développés pour automatiser les tâches chronophages du quotidien, renforcer la cybersécurité des postes de travail et faciliter le support utilisateur (Helpdesk).
+Ce dépôt regroupe plusieurs scripts PowerShell que j'ai utlisés pour automatiser les tâches chronophages du quotidien, renforcer la cybersécurité des postes de travail et faciliter le support utilisateur (Helpdesk) sur mon projet CICAR.
 
 ## 📂 Arborescence du projet
 
